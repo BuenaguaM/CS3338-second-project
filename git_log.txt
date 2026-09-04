@@ -1,0 +1,52 @@
+commit 70f15525a24eeec7c628642fd65c9ce752e6966e
+Merge: 1a1fe74 cdddd7f
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:59:05 2026 -0700
+
+    Resolved the merge conflict to accept both changes
+
+commit cdddd7f45b3f0f1de1dc3e914862f258c8ddad36
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:47:14 2026 -0700
+
+    Modified my index.html to add my favorite game
+
+commit 1a1fe748338e1fe5fc8913d81d4f6d2ac7ca982e
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:42:33 2026 -0700
+
+    Modified index.html to include my favorite food
+
+commit 4ee7f8d0fa79c8f96372fec80bf981b8a73c19fb
+Merge: 9ee9173 39eb848
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:33:50 2026 -0700
+
+    Added README to main branch
+
+commit 9ee917319aaf03fcd7eb2d6d736fecf7f0641ba3
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:26:48 2026 -0700
+
+    Added README to main branch
+
+commit 39eb8489ea81e94d7b28d74437c7e0093590e0f3
+Merge: 1d2bfc0 7e67b71
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:22:13 2026 -0700
+
+    Merge pull request #1 from BuenaguaM/info-fill
+    
+    Modified the index.html to fill in the blanks
+
+commit 7e67b713fa161f3714c7aa7e0b028ad293e230f6
+Author: BuenaguaM <179686440+BuenaguaM@users.noreply.github.com>
+Date:   Fri Sep 4 13:11:14 2026 -0700
+
+    Modified the index.html to fill in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
